@@ -1,2 +1,2 @@
-# UI
-just for learning front-end development with bootstrap,  javascript and css in a rails application
+# cricketlive
+This is a ruby on rails web application which consumes cric-api to provide live cricket updates
